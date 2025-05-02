@@ -14,6 +14,26 @@ This Python script implements an enhanced DDoS (Distributed Denial of Service) a
 - Implements error handling and reporting for better monitoring and feedback.
 - Provides a user-friendly interface via Telegram bot commands.
 
+## CORE ARMAMENT
+
+SYN Flood (Layer 4 Tsunami)
+TCP connection exhaustion through forged SYN packets
+
+UDP Amplification (Bandwidth Annihilator)
+DNS reflector abuse for 100x traffic multiplication
+
+HTTP Slowloris (Connection Strangler)
+Partial HTTP requests to exhaust server threads
+
+ICMP Ping Storm (Packet Hurricane)
+Traditional ICMP flood with jumbo payloads
+
+DNS Water Torture (NXDomain Overload)
+Randomized subdomain queries to crash resolvers
+
+WebSocket Armageddon (Layer 7 Apocalypse)
+Persistent WS connections with 1MB/s payload bombardment
+
 ## Prerequisites
 
 - Python 3.x installed on your system.
